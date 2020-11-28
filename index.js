@@ -7,7 +7,7 @@ const path = require("path")
 
 const beer = require('./routes/beer');
 
-//Student Side routes
+
 var app = express();
 const port = 5002||process.env.PORT;
 
